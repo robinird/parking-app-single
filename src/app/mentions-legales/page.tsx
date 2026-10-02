@@ -63,7 +63,7 @@ export default function MentionsLegales() {
             <h2 className="text-xl font-semibold text-primary">5. Contact</h2>
             <p className="text-muted-foreground leading-relaxed">
               Pour toute question ou demande d'information concernant le site, vous pouvez nous contacter :<br />
-              Par email : <a href="mailto:contact@techcorp.com" className="text-primary hover:underline">contact@techcorp.com</a>
+              Par email : <a href="mailto:contact.techcorpparking@gmail.com" className="text-primary hover:underline">contact.techcorpparking@gmail.com</a>
             </p>
           </section>
         </div>
