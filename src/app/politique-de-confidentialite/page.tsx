@@ -84,7 +84,7 @@ export default function PolitiqueConfidentialite() {
             </ul>
             <p className="text-muted-foreground leading-relaxed mt-4">
               Pour exercer ces droits, vous pouvez contacter directement l'administrateur du site à l'adresse suivante :<br />
-              <a href="mailto:contact@techcorp.com" className="text-primary hover:underline font-medium">contact@techcorp.com</a>
+              <a href="mailto:contact.techcorpparking@gmail.com" className="text-primary hover:underline font-medium">contact.techcorpparking@gmail.com</a>
             </p>
           </section>
 
